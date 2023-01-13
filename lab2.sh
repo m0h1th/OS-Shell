@@ -10,4 +10,3 @@ prod=`expr $a \* $b \* $c \* $d`
 echo "The sum is $sum"
 echo "The average is $avg"
 echo "The product is $prod"
- 

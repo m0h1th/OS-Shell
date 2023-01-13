@@ -7,4 +7,3 @@ a=$b
 b=$temp
 echo "After swap"
 echo "a=$a; b=$b"
-

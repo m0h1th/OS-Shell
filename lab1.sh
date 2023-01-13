@@ -5,4 +5,3 @@ echo "Enter your rollNum:"
 read rollnum
 echo "Your name is: $name"
 echo "Your rollnum is: $rollnum"
-

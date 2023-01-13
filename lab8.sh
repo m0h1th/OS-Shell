@@ -15,4 +15,3 @@ cir_a=$(echo "$pi * ($r^2)" | bc)
 cir_p=$(echo "2 * $pi * $r" | bc)
 echo "Circle area: $cir_a"
 echo "Circle perimeter: $cir_p"
-
